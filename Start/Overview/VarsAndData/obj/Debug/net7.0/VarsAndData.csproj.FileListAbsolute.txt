@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\bin\Debug\net7.0\VarsAndData.exe
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\bin\Debug\net7.0\VarsAndData.deps.json
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\bin\Debug\net7.0\VarsAndData.runtimeconfig.json
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\bin\Debug\net7.0\VarsAndData.dll
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\bin\Debug\net7.0\VarsAndData.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.AssemblyInfo.cs
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.sourcelink.json
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.dll
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\obj\Debug\net7.0\refint\VarsAndData.dll
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\obj\Debug\net7.0\VarsAndData.genruntimeconfig.cache
+C:\Users\scott\Desktop\DotNet9\Start\Overview\VarsAndData\obj\Debug\net7.0\ref\VarsAndData.dll
