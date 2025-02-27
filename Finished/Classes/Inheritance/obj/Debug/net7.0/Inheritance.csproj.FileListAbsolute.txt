@@ -1,0 +1,15 @@
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll

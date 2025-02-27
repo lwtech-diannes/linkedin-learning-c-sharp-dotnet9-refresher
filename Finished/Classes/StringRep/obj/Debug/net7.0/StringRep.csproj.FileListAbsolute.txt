@@ -1,0 +1,15 @@
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/bin/Debug/net7.0/StringRep
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/bin/Debug/net7.0/StringRep.deps.json
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/bin/Debug/net7.0/StringRep.runtimeconfig.json
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/bin/Debug/net7.0/StringRep.dll
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/bin/Debug/net7.0/StringRep.pdb
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/obj/Debug/net7.0/StringRep.csproj.AssemblyReference.cache
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/obj/Debug/net7.0/StringRep.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/obj/Debug/net7.0/StringRep.AssemblyInfoInputs.cache
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/obj/Debug/net7.0/StringRep.AssemblyInfo.cs
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/obj/Debug/net7.0/StringRep.csproj.CoreCompileInputs.cache
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/obj/Debug/net7.0/StringRep.dll
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/obj/Debug/net7.0/refint/StringRep.dll
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/obj/Debug/net7.0/StringRep.pdb
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/obj/Debug/net7.0/StringRep.genruntimeconfig.cache
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/obj/Debug/net7.0/ref/StringRep.dll
