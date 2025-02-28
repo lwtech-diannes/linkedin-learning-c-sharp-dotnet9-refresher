@@ -1,0 +1,16 @@
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\bin\Debug\net7.0\Comments.exe
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\bin\Debug\net7.0\Comments.deps.json
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\bin\Debug\net7.0\Comments.runtimeconfig.json
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\bin\Debug\net7.0\Comments.dll
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\bin\Debug\net7.0\Comments.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\bin\Debug\net7.0\Comments.xml
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\obj\Debug\net7.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\obj\Debug\net7.0\Comments.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\obj\Debug\net7.0\Comments.AssemblyInfo.cs
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\obj\Debug\net7.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\obj\Debug\net7.0\Comments.sourcelink.json
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\obj\Debug\net7.0\Comments.dll
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\obj\Debug\net7.0\refint\Comments.dll
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\obj\Debug\net7.0\Comments.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\obj\Debug\net7.0\Comments.genruntimeconfig.cache
+C:\Users\scott\Desktop\DotNet9\Start\Overview\Comments\obj\Debug\net7.0\ref\Comments.dll
