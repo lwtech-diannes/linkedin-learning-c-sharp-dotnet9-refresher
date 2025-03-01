@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Program Flow\\Exceptions\\Exceptions.csproj",
+      "projectUniqueName": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Program Flow\\Exceptions\\Exceptions.csproj",
       "projectName": "Exceptions",
-      "projectPath": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Program Flow\\Exceptions\\Exceptions.csproj",
+      "projectPath": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Program Flow\\Exceptions\\Exceptions.csproj",
       "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Program Flow\\Exceptions\\obj\\",
+      "outputPath": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Program Flow\\Exceptions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
