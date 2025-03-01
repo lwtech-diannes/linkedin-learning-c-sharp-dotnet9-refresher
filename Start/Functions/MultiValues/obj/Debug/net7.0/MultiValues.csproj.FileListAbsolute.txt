@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.exe
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.deps.json
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.runtimeconfig.json
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.dll
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\bin\Debug\net7.0\MultiValues.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.AssemblyInfo.cs
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.sourcelink.json
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.dll
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\obj\Debug\net7.0\refint\MultiValues.dll
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\obj\Debug\net7.0\MultiValues.genruntimeconfig.cache
+C:\Users\scott\Desktop\DotNet9\Start\Functions\MultiValues\obj\Debug\net7.0\ref\MultiValues.dll
