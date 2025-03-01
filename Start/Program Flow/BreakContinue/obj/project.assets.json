@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Program Flow\\BreakContinue\\BreakContinue.csproj",
+      "projectUniqueName": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Program Flow\\BreakContinue\\BreakContinue.csproj",
       "projectName": "BreakContinue",
-      "projectPath": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Program Flow\\BreakContinue\\BreakContinue.csproj",
+      "projectPath": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Program Flow\\BreakContinue\\BreakContinue.csproj",
       "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Program Flow\\BreakContinue\\obj\\",
+      "outputPath": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Program Flow\\BreakContinue\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
