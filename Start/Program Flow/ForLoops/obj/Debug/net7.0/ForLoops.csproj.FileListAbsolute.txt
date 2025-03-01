@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\bin\Debug\net7.0\ForLoops.exe
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\bin\Debug\net7.0\ForLoops.deps.json
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\bin\Debug\net7.0\ForLoops.runtimeconfig.json
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\bin\Debug\net7.0\ForLoops.dll
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\bin\Debug\net7.0\ForLoops.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\obj\Debug\net7.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\obj\Debug\net7.0\ForLoops.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\obj\Debug\net7.0\ForLoops.AssemblyInfo.cs
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\obj\Debug\net7.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\obj\Debug\net7.0\ForLoops.sourcelink.json
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\obj\Debug\net7.0\ForLoops.dll
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\obj\Debug\net7.0\refint\ForLoops.dll
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\obj\Debug\net7.0\ForLoops.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\obj\Debug\net7.0\ForLoops.genruntimeconfig.cache
+C:\Users\scott\Desktop\DotNet9\Start\Program Flow\ForLoops\obj\Debug\net7.0\ref\ForLoops.dll
