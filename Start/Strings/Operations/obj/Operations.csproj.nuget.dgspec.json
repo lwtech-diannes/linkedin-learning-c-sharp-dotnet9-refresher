@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Strings\\Operations\\Operations.csproj": {}
+    "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Strings\\Operations\\Operations.csproj": {}
   },
   "projects": {
-    "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Strings\\Operations\\Operations.csproj": {
+    "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Strings\\Operations\\Operations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Strings\\Operations\\Operations.csproj",
+        "projectUniqueName": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Strings\\Operations\\Operations.csproj",
         "projectName": "Operations",
-        "projectPath": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Strings\\Operations\\Operations.csproj",
+        "projectPath": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Strings\\Operations\\Operations.csproj",
         "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Strings\\Operations\\obj\\",
+        "outputPath": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Strings\\Operations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
