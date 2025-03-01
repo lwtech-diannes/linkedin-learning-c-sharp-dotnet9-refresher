@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\bin\Debug\net7.0\Basics.exe
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\bin\Debug\net7.0\Basics.deps.json
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\bin\Debug\net7.0\Basics.runtimeconfig.json
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\bin\Debug\net7.0\Basics.dll
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\bin\Debug\net7.0\Basics.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\obj\Debug\net7.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\obj\Debug\net7.0\Basics.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\obj\Debug\net7.0\Basics.AssemblyInfo.cs
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\obj\Debug\net7.0\Basics.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\obj\Debug\net7.0\Basics.sourcelink.json
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\obj\Debug\net7.0\Basics.dll
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\obj\Debug\net7.0\refint\Basics.dll
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\obj\Debug\net7.0\Basics.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\obj\Debug\net7.0\Basics.genruntimeconfig.cache
+C:\Users\scott\Desktop\DotNet9\Start\Functions\Basics\obj\Debug\net7.0\ref\Basics.dll

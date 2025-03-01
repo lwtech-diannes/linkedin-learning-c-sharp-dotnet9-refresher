@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Functions\\Basics\\Basics.csproj": {}
+    "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Functions\\Basics\\Basics.csproj": {}
   },
   "projects": {
-    "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Functions\\Basics\\Basics.csproj": {
+    "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Functions\\Basics\\Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Functions\\Basics\\Basics.csproj",
+        "projectUniqueName": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Functions\\Basics\\Basics.csproj",
         "projectName": "Basics",
-        "projectPath": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Functions\\Basics\\Basics.csproj",
+        "projectPath": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Functions\\Basics\\Basics.csproj",
         "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Functions\\Basics\\obj\\",
+        "outputPath": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Functions\\Basics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
