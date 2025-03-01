@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\obj\Debug\net7.0\CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\obj\Debug\net7.0\CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\obj\Debug\net7.0\CodingChallenge.AssemblyInfo.cs
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\obj\Debug\net7.0\CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\obj\Debug\net7.0\CodingChallenge.sourcelink.json
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\bin\Debug\net7.0\CodingChallenge.exe
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\bin\Debug\net7.0\CodingChallenge.deps.json
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\bin\Debug\net7.0\CodingChallenge.runtimeconfig.json
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\bin\Debug\net7.0\CodingChallenge.dll
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\bin\Debug\net7.0\CodingChallenge.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\obj\Debug\net7.0\CodingChallenge.dll
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\obj\Debug\net7.0\refint\CodingChallenge.dll
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\obj\Debug\net7.0\CodingChallenge.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\obj\Debug\net7.0\CodingChallenge.genruntimeconfig.cache
+C:\Users\scott\Desktop\DotNet9\Start\Functions\CodingChallenge\obj\Debug\net7.0\ref\CodingChallenge.dll
