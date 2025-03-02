@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Classes\\Modifiers\\Modifiers.csproj",
+      "projectUniqueName": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Classes\\Modifiers\\Modifiers.csproj",
       "projectName": "Modifiers",
-      "projectPath": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Classes\\Modifiers\\Modifiers.csproj",
+      "projectPath": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Classes\\Modifiers\\Modifiers.csproj",
       "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Classes\\Modifiers\\obj\\",
+      "outputPath": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Classes\\Modifiers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

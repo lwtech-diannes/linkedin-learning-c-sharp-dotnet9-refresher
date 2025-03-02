@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\bin\Debug\net7.0\Modifiers.exe
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\bin\Debug\net7.0\Modifiers.deps.json
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\bin\Debug\net7.0\Modifiers.runtimeconfig.json
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\bin\Debug\net7.0\Modifiers.dll
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\bin\Debug\net7.0\Modifiers.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.AssemblyInfo.cs
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.sourcelink.json
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.dll
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\obj\Debug\net7.0\refint\Modifiers.dll
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\obj\Debug\net7.0\Modifiers.genruntimeconfig.cache
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Modifiers\obj\Debug\net7.0\ref\Modifiers.dll
