@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Classes\\StringRep\\StringRep.csproj": {}
+    "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Classes\\StringRep\\StringRep.csproj": {}
   },
   "projects": {
-    "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Classes\\StringRep\\StringRep.csproj": {
+    "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Classes\\StringRep\\StringRep.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Classes\\StringRep\\StringRep.csproj",
+        "projectUniqueName": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Classes\\StringRep\\StringRep.csproj",
         "projectName": "StringRep",
-        "projectPath": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Classes\\StringRep\\StringRep.csproj",
+        "projectPath": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Classes\\StringRep\\StringRep.csproj",
         "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\scott\\Desktop\\DotNet7\\Start\\Classes\\StringRep\\obj\\",
+        "outputPath": "C:\\Users\\scott\\Desktop\\DotNet9\\Start\\Classes\\StringRep\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

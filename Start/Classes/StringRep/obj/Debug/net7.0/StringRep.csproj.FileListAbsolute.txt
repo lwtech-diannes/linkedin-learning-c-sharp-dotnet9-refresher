@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.exe
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.deps.json
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.runtimeconfig.json
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.dll
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.AssemblyInfo.cs
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.sourcelink.json
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.dll
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\obj\Debug\net7.0\refint\StringRep.dll
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.genruntimeconfig.cache
+C:\Users\scott\Desktop\DotNet9\Start\Classes\StringRep\obj\Debug\net7.0\ref\StringRep.dll
