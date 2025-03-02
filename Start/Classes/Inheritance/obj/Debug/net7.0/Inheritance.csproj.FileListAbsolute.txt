@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\bin\Debug\net7.0\Inheritance.exe
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\bin\Debug\net7.0\Inheritance.dll
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\obj\Debug\net7.0\Inheritance.sourcelink.json
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\obj\Debug\net7.0\Inheritance.dll
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll
