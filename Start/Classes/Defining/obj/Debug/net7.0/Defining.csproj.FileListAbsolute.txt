@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\obj\Debug\net7.0\Defining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\obj\Debug\net7.0\Defining.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\obj\Debug\net7.0\Defining.AssemblyInfo.cs
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\obj\Debug\net7.0\Defining.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\obj\Debug\net7.0\Defining.sourcelink.json
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\bin\Debug\net7.0\Defining.exe
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\bin\Debug\net7.0\Defining.deps.json
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\bin\Debug\net7.0\Defining.runtimeconfig.json
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\bin\Debug\net7.0\Defining.dll
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\bin\Debug\net7.0\Defining.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\obj\Debug\net7.0\Defining.dll
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\obj\Debug\net7.0\refint\Defining.dll
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\obj\Debug\net7.0\Defining.pdb
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\obj\Debug\net7.0\Defining.genruntimeconfig.cache
+C:\Users\scott\Desktop\DotNet9\Start\Classes\Defining\obj\Debug\net7.0\ref\Defining.dll
